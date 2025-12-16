@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+*.sqlite
+*.db
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
